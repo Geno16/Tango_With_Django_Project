@@ -1,0 +1,20 @@
+{
+    "python.pythonPath": "/home/geno1664/.virtualenvs/rangoenv/bin/python",
+    "python.linting.pylintCategorySeverity.warning": "Hint",
+    "python.linting.pylintCategorySeverity.fatal": "Hint",
+    "python.linting.pylintCategorySeverity.error": "Hint",
+    "python.linting.pylintCategorySeverity.convention": "Error",
+    "python.linting.pylintPath": "/home/geno1664/.virtualenvs/rangoenv/lib/python3.8/site-packages/pylint",
+    "python.formatting.autopep8Path": "/home/geno1664/.virtualenvs/rangoenv/lib/python3.8/site-packages/autopep8",
+    "python.formatting.autopep8Args": [
+        "--in-place",
+        "--agressive",
+        "--agressive"
+    ],
+    "python.analysis.cacheFolderPath": "/home/geno1664/Documents/Developments/Web_Dev/Tango_With_Django_Project/error_cache",
+    "python.analysis.logLevel": "Trace",
+    "html.format.endWithNewline": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.indentHandlebars": true,
+    "html.format.wrapAttributes": "force-aligned"
+}
